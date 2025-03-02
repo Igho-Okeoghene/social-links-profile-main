@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [social-links-profile-main](https://github.com/Igho-Okeoghene/social-links-profile-main)
+- Live Site URL: [https://igho-okeoghene.github.io/social-links-profile-main/](https://igho-okeoghene.github.io/social-links-profile-main/)
 
 
 ### Built with
