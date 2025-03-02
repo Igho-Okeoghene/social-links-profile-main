@@ -78,6 +78,10 @@ button{
     margin-top: 15px;
     font-size: .8rem;
 }
+.buttons a{
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+}
 button:hover{
     cursor: pointer;
     background-color: hsl(75, 94%, 57%);
